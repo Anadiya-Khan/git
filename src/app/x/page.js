@@ -6,6 +6,7 @@ export function X(){
             Hello this is Zainab khan
             hello zainab ki dost anadiya
             hi this is conflict one
+            hello ji
         </div>
     )
 }
